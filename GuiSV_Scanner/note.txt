@@ -1,0 +1,3 @@
+check state hien tai
+ neu state = 0 -> check charcode cua ki tu hien tai . Sau khi check , chuyen trang thai cua state
+ neu state = 1 -> 
